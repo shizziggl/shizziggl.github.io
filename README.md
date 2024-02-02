@@ -1,15 +1,7 @@
 # Julien ist auch nicht schlecht
 [Den sein youtube Kanal]
-(https://youtube.com/@julien12022?si=wrSfVrPV74jnoD5k "JULIEN 1334")
 
-### https://www.youtube.com/@julien12022
-
-How do I embed a YouTube video into markdown?
-Embed YouTube Video in Markdown File
-[![Watch the video](https://img.youtube.com/vi/UCfMm2MVHf8LlsCj0mfPGGfQ)](https://youtu.be/UCfMm2MVHf8LlsCj0mfPGGfQ)
-<a href="http://www.youtube.com/watch? ...
-![alt text][image] [image]: /full/path/to/image/file.jpg "alt_txt"
-<img src="/full/path/to/image/file.jpg" alt="alt_text" width="200">
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
 
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
