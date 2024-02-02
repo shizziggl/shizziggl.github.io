@@ -1,8 +1,7 @@
 ### Julien ist auch nicht schlecht
-
-
-## Links
 [JULIEN 1334](https://youtube.com/@julien12022?si=wrSfVrPV74jnoD5k "JULIEN 1334")
+
+https://www.youtube.com/@julien12022
 
 ## Images
 
