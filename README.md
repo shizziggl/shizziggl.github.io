@@ -4,8 +4,6 @@
 
 ### https://www.youtube.com/@julien12022
 
-## Images
-
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
