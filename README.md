@@ -4,9 +4,6 @@
 ## Links
 [JULIEN 1334](https://youtube.com/@julien12022?si=wrSfVrPV74jnoD5k "JULIEN 1334")
 
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
-
-
 ## Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
