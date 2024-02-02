@@ -5,7 +5,7 @@
 
 [link text](http://dev.nodeca.com)
 
-[link with title](https://youtube.com/@julien12022?si=wrSfVrPV74jnoD5k "JULIEN 1334")
+[JULIEN 1334](https://youtube.com/@julien12022?si=wrSfVrPV74jnoD5k "JULIEN 1334")
 
 Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
