@@ -3,6 +3,12 @@
 
 https://www.youtube.com/@julien12022
 
+[![Watch the video](https://img.youtube.com/vi/nTQUwghvy5Q/default.jpg)](https://youtu.be/nTQUwghvy5Q)
+<a href="http://www.youtube.com/watch? ...
+![alt text][image] [image]: /full/path/to/image/file.jpg "alt_txt"
+<img src="/full/path/to/image/file.jpg" alt="alt_text" width="200">
+
+
 ## Images
 
 ![Minion](https://octodex.github.com/images/minion.png)
