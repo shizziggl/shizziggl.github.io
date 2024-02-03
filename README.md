@@ -1,5 +1,10 @@
 # insANE REPOS
 **************
 ## youtube Apps and Repos
-(NewPipe)
-[newpipe.app]
+(https://newpipe.app)
+[newPipe]
+
+(https://github.com/deniscerri/ytdlnis)
+[ytdlnis]
+
+
